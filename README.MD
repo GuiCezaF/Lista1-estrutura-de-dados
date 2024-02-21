@@ -2,6 +2,6 @@
 
 ### Exercícios feitos utilizando a linguagem de programação java, e utilizando conceitos básicos para praticar os conteúdos desenvolvidos em aula
 
-[x] - Exercício 1
-[] - Exercício 2
-[] - Exercício 3
+[x] - Exercício 1 </br>
+[] - Exercício 2 </br>
+[] - Exercício 3 </br>
