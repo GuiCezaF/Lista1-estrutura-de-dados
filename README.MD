@@ -6,4 +6,4 @@
 
 [ X ] - Exercício 1 </br>
 [ X ] - Exercício 2 </br>
-[] - Exercício 3 </br>
+[ X ] - Exercício 3 </br>
