@@ -1,3 +1,4 @@
+package lista1;
 public class ex3 {
 
   public static boolean verificaOrdem(int[] vetor) {

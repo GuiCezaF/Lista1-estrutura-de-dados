@@ -1,3 +1,4 @@
+package lista1;
 import java.util.Arrays;
 
 public class ex2 {

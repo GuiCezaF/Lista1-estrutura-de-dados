@@ -1,3 +1,4 @@
+package lista1;
 
 /*
 Considere um “produtório” como o resultado da multiplicação de um conjunto de
